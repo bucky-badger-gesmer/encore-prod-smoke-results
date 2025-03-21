@@ -1,0 +1,22 @@
+{
+  "name": "encore-prod-smoke-results",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bucky-badger-gesmer/encore-prod-smoke-results.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bucky-badger-gesmer/encore-prod-smoke-results/issues"
+  },
+  "homepage": "https://github.com/bucky-badger-gesmer/encore-prod-smoke-results#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.11"
+  }
+}
